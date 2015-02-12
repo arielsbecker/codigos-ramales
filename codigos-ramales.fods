@@ -9,13 +9,13 @@
   <dc:date>2015-02-03T14:17:19.703357720</dc:date>
   <meta:creation-date>2015-01-15T10:24:48.410189360</meta:creation-date>
   
- <meta:editing-duration>P1DT1H8M14S</meta:editing-duration><dc:creator>Ariel Becker</dc:creator><meta:document-statistic meta:table-count="12" meta:cell-count="4255" meta:object-count="0"/></office:meta>
+ <meta:editing-duration>P1DT1H8M14S</meta:editing-duration><dc:creator>Ariel Becker</dc:creator><meta:document-statistic meta:table-count="13" meta:cell-count="4768" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">23907</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">23932</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">24184</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">47413</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -156,6 +156,23 @@
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
+      <config:config-item-map-entry config:name="Ramales FCGMB">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">70</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">1</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">1</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">1</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">1</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+      </config:config-item-map-entry>
       <config:config-item-map-entry config:name="Ramales FCGR">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">1</config:config-item>
@@ -225,7 +242,7 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">Abreviaturas</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">Ramales FCGMB</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">865</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -690,6 +707,132 @@
     <style:text-properties fo:color="#000000" fo:font-size="100%"/>
    </text:list-level-style-number>
   </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="8mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="16mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="24mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="32mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="40mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="48mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="56mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="64mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="72mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L6">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="8mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="16mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="24mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="32mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="40mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="48mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="56mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="64mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="72mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:list-style style:name="L7">
+   <text:list-level-style-number text:level="1" style:num-format="A">
+    <style:list-level-properties/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-format="A">
+    <style:list-level-properties text:space-before="8mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-format="A">
+    <style:list-level-properties text:space-before="16mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-format="A">
+    <style:list-level-properties text:space-before="24mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-format="A">
+    <style:list-level-properties text:space-before="32mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-format="A">
+    <style:list-level-properties text:space-before="40mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-format="A">
+    <style:list-level-properties text:space-before="48mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-format="A">
+    <style:list-level-properties text:space-before="56mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-format="A">
+    <style:list-level-properties text:space-before="64mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-format="A">
+    <style:list-level-properties text:space-before="72mm"/>
+    <style:text-properties fo:color="#000000" fo:font-size="100%"/>
+   </text:list-level-style-number>
+  </text:list-style>
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Default" style:page-layout-name="pm1">
@@ -708,7 +851,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2015-02-12">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="09:34:13.868552840">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2015-02-12">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="11:31:22.457868680">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -1183,7 +1326,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Códigos de ferrocarriles" table:style-name="ta2">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:number-columns-repeated="1022" table:default-cell-style-name="Default"/>
@@ -1279,7 +1421,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Empalmes" table:style-name="ta1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co5" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
@@ -2247,7 +2388,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Intercambios" table:style-name="ta1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
@@ -2727,7 +2867,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Ramales FCDFS" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="ce4"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
@@ -3534,7 +3673,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Ramales FCGBM" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
@@ -4352,7 +4490,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Ramales FCGR" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co17" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
@@ -5573,7 +5710,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Ramales Ferrocarriles Patagónicos" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
@@ -5696,7 +5832,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Ramales FCGSM" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
@@ -6660,7 +6795,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Ramales FCGU" table:style-name="ta3">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
@@ -7407,8 +7541,1899 @@
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <table:table table:name="Estaciones FCDFS" table:style-name="ta1">
+   <table:table table:name="Ramales FCGMB" table:style-name="ta3">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Código</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Punto inicial</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Punto final</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Progresiva inicial</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
+      <text:p>Progresiva final</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Código est. inicial</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
+      <text:p>Código est. final</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Retiro (P.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Tucumán N.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7000" calcext:value-type="float">
+      <text:p>7000</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7192" calcext:value-type="float">
+      <text:p>7192</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC1</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7"/>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Puerto Capital</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7193" calcext:value-type="float">
+      <text:p>7193</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7197" calcext:value-type="float">
+      <text:p>7197</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Puerto Rosario</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7198" calcext:value-type="float">
+      <text:p>7198</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Emp. Graneros</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Embarcadero</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7199" calcext:value-type="float">
+      <text:p>7199</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7200" calcext:value-type="float">
+      <text:p>7200</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>San Francisco</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Rafaela</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7201" calcext:value-type="float">
+      <text:p>7201</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7209" calcext:value-type="float">
+      <text:p>7209</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC7</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Garita</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Córdoba FCGBM</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7210" calcext:value-type="float">
+      <text:p>7210</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7218" calcext:value-type="float">
+      <text:p>7218</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Guiñazú</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Unquillo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7219" calcext:value-type="float">
+      <text:p>7219</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7230" calcext:value-type="float">
+      <text:p>7230</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC9</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Coroya</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Cantera (El Sauce)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7231" calcext:value-type="float">
+      <text:p>7231</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7237" calcext:value-type="float">
+      <text:p>7237</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC10</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Recreo</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Chumbicha</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7238" calcext:value-type="float">
+      <text:p>7238</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7251" calcext:value-type="float">
+      <text:p>7251</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC11</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Frías</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Santiago del Estero</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7252" calcext:value-type="float">
+      <text:p>7252</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7274" calcext:value-type="float">
+      <text:p>7274</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC12</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Lamadrid</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Tucumán</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7275" calcext:value-type="float">
+      <text:p>7275</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7326" calcext:value-type="float">
+      <text:p>7326</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC13</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Río Colorado</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Famaillá</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7327" calcext:value-type="float">
+      <text:p>7327</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7333" calcext:value-type="float">
+      <text:p>7333</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC14</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>V. Alberdi</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Rumi Punco</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7334" calcext:value-type="float">
+      <text:p>7334</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7344" calcext:value-type="float">
+      <text:p>7344</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC15</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Aguilares</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>L. Sarmientos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7345" calcext:value-type="float">
+      <text:p>7345</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7351" calcext:value-type="float">
+      <text:p>7351</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC16</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Concepción</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Medinas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7352" calcext:value-type="float">
+      <text:p>7352</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7359" calcext:value-type="float">
+      <text:p>7359</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC17</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Arcadia</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>Gastona</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7360" calcext:value-type="float">
+      <text:p>7360</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce7" office:value-type="float" office:value="7361" calcext:value-type="float">
+      <text:p>7361</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC19</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Don Torcuato</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kilóm. 37</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7362" calcext:value-type="float">
+      <text:p>7362</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7375" calcext:value-type="float">
+      <text:p>7375</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC21</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Canteras de Ancaján</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7376" calcext:value-type="float">
+      <text:p>7376</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7377" calcext:value-type="float">
+      <text:p>7377</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce7" office:value-type="string" calcext:value-type="string">
+      <text:p>CC22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Río Chico</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nueva Trinidad</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7378" calcext:value-type="float">
+      <text:p>7378</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7379" calcext:value-type="float">
+      <text:p>7379</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <office:annotation office:display="true" draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="13.86mm" svg:x="13.28mm" svg:y="66.01mm" draw:caption-point-x="9.19mm" draw:caption-point-y="24.4mm">
+       <dc:creator>ASB</dc:creator>
+       <dc:date>2015-02-12T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Revisar este código pues está duplicado.</text:span></text:p>
+      </office:annotation>
+      <text:p>CC</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ingenios de Azúcar</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7380" calcext:value-type="float">
+      <text:p>7380</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7399" calcext:value-type="float">
+      <text:p>7399</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Fe</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>La Quiaca</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7400" calcext:value-type="float">
+      <text:p>7400</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7607" calcext:value-type="float">
+      <text:p>7607</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Naré</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>San Javier</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7608" calcext:value-type="float">
+      <text:p>7608</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7618" calcext:value-type="float">
+      <text:p>7618</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Bandera</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Añatuya</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7619" calcext:value-type="float">
+      <text:p>7619</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7631" calcext:value-type="float">
+      <text:p>7631</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Añatuya</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. Barranqueras</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7632" calcext:value-type="float">
+      <text:p>7632</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7683" calcext:value-type="float">
+      <text:p>7683</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Puna</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Justina</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7684" calcext:value-type="float">
+      <text:p>7684</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7685" calcext:value-type="float">
+      <text:p>7685</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Quimilí</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Campo Gallo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7686" calcext:value-type="float">
+      <text:p>7686</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7702" calcext:value-type="float">
+      <text:p>7702</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tostado</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gral. Pinedo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7703" calcext:value-type="float">
+      <text:p>7703</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7718" calcext:value-type="float">
+      <text:p>7718</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Clodomira</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santiago del Estero</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7719" calcext:value-type="float">
+      <text:p>7719</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7730" calcext:value-type="float">
+      <text:p>7730</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Las Cejas</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rosario de la Frontera</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7731" calcext:value-type="float">
+      <text:p>7731</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7752" calcext:value-type="float">
+      <text:p>7752</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Colombres</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Guzmán</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7753" calcext:value-type="float">
+      <text:p>7753</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7758" calcext:value-type="float">
+      <text:p>7758</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pacará</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Termas de Río Hondo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7759" calcext:value-type="float">
+      <text:p>7759</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7783" calcext:value-type="float">
+      <text:p>7783</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pacará</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Banda del Río Sali</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7784" calcext:value-type="float">
+      <text:p>7784</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7785" calcext:value-type="float">
+      <text:p>7785</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Metán</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Avia Terai</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7786" calcext:value-type="float">
+      <text:p>7786</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7819" calcext:value-type="float">
+      <text:p>7819</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Güemes</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Alemanía</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7820" calcext:value-type="float">
+      <text:p>7820</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7847" calcext:value-type="float">
+      <text:p>7847</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cerrillos</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Socompa</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7848" calcext:value-type="float">
+      <text:p>7848</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7887" calcext:value-type="float">
+      <text:p>7887</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Perico </text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Yacuiba</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7888" calcext:value-type="float">
+      <text:p>7888</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7929" calcext:value-type="float">
+      <text:p>7929</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pichanal</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Orán</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7930" calcext:value-type="float">
+      <text:p>7930</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7936" calcext:value-type="float">
+      <text:p>7936</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C17</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>El Cadillal</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Dique El Cadillal</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7937" calcext:value-type="float">
+      <text:p>7937</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7938" calcext:value-type="float">
+      <text:p>7938</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Joaquín V. González</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pichanal</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7939" calcext:value-type="float">
+      <text:p>7939</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7957" calcext:value-type="float">
+      <text:p>7957</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C19</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rapelli</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pozo Betbeder</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7958" calcext:value-type="float">
+      <text:p>7958</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7965" calcext:value-type="float">
+      <text:p>7965</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Miel de Palo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Los Linares</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7966" calcext:value-type="float">
+      <text:p>7966</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7967" calcext:value-type="float">
+      <text:p>7967</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>H. M. Miraval</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Las Tinajas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7968" calcext:value-type="float">
+      <text:p>7968</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7981" calcext:value-type="float">
+      <text:p>7981</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tintina</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Patay</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7982" calcext:value-type="float">
+      <text:p>7982</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7989" calcext:value-type="float">
+      <text:p>7989</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Robersi</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C. del Cielo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7990" calcext:value-type="float">
+      <text:p>7990</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7996" calcext:value-type="float">
+      <text:p>7996</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C25</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Embarcación</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Formosa</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="7997" calcext:value-type="float">
+      <text:p>7997</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8033" calcext:value-type="float">
+      <text:p>8033</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P. Roque Sáenz Peña</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Col. Castelli, J. J.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8034" calcext:value-type="float">
+      <text:p>8034</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8044" calcext:value-type="float">
+      <text:p>8044</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P. de los Guanacos</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sachayoj</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8045" calcext:value-type="float">
+      <text:p>8045</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8052" calcext:value-type="float">
+      <text:p>8052</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pala Pala</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ingenio Bella Vista</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8053" calcext:value-type="float">
+      <text:p>8053</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8054" calcext:value-type="float">
+      <text:p>8054</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C31</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Fe</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. Santa Fe</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8055" calcext:value-type="float">
+      <text:p>8055</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8056" calcext:value-type="float">
+      <text:p>8056</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. Barranqueras</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. Vilelas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8057" calcext:value-type="float">
+      <text:p>8057</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8058" calcext:value-type="float">
+      <text:p>8058</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mate de Luna</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tucumán (P.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8059" calcext:value-type="float">
+      <text:p>8059</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8060" calcext:value-type="float">
+      <text:p>8060</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C35</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Lapachito</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Zapallar</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8061" calcext:value-type="float">
+      <text:p>8061</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8074" calcext:value-type="float">
+      <text:p>8074</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell table:style-name="ce8" office:value-type="string" calcext:value-type="string">
+      <office:annotation office:display="true" draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="13.86mm" svg:x="12.45mm" svg:y="217.95mm" draw:caption-point-x="10.02mm" draw:caption-point-y="21.47mm">
+       <dc:creator>ASB</dc:creator>
+       <dc:date>2015-02-12T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Revisar este código pues está duplicado.</text:span></text:p>
+      </office:annotation>
+      <text:p>C</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ingenios de Azúcar</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8075" calcext:value-type="float">
+      <text:p>8075</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8099" calcext:value-type="float">
+      <text:p>8099</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Laguna Paiva</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Catamarca</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8100" calcext:value-type="float">
+      <text:p>8100</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8167" calcext:value-type="float">
+      <text:p>8167</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cruz del Eje</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Córdoba</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8168" calcext:value-type="float">
+      <text:p>8168</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8218" calcext:value-type="float">
+      <text:p>8218</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Serrezuela</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>San Juan</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8219" calcext:value-type="float">
+      <text:p>8219</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8260" calcext:value-type="float">
+      <text:p>8260</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Patquia</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Chilecito</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8261" calcext:value-type="float">
+      <text:p>8261</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8267" calcext:value-type="float">
+      <text:p>8267</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cebollar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kilóm. 975 (Ap.)</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8268" calcext:value-type="float">
+      <text:p>8268</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8279" calcext:value-type="float">
+      <text:p>8279</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mazán</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tinogasta</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8280" calcext:value-type="float">
+      <text:p>8280</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8294" calcext:value-type="float">
+      <text:p>8294</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Catamarca</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Superí</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8295" calcext:value-type="float">
+      <text:p>8295</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8304" calcext:value-type="float">
+      <text:p>8304</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Coll</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Jáchal</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8305" calcext:value-type="float">
+      <text:p>8305</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8317" calcext:value-type="float">
+      <text:p>8317</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>La Puerta</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Córdoba</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8318" calcext:value-type="float">
+      <text:p>8318</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8330" calcext:value-type="float">
+      <text:p>8330</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Milagro</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Quines</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8331" calcext:value-type="float">
+      <text:p>8331</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8340" calcext:value-type="float">
+      <text:p>8340</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pie de Palo</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mendoza</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8341" calcext:value-type="float">
+      <text:p>8341</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8358" calcext:value-type="float">
+      <text:p>8358</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>V. Santa Rosa</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Tránsito</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8359" calcext:value-type="float">
+      <text:p>8359</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8362" calcext:value-type="float">
+      <text:p>8362</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Guaymallén</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Las Cuevas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8363" calcext:value-type="float">
+      <text:p>8363</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8390" calcext:value-type="float">
+      <text:p>8390</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Comandante Leal</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pinas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8391" calcext:value-type="float">
+      <text:p>8391</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8395" calcext:value-type="float">
+      <text:p>8395</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Thea</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Las Canteras</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8396" calcext:value-type="float">
+      <text:p>8396</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8397" calcext:value-type="float">
+      <text:p>8397</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>A15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>José Martí</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cuyo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8398" calcext:value-type="float">
+      <text:p>8398</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8399" calcext:value-type="float">
+      <text:p>8399</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Fe</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cacuí</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8400" calcext:value-type="float">
+      <text:p>8400</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8464" calcext:value-type="float">
+      <text:p>8464</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Fe</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rosario</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8465" calcext:value-type="float">
+      <text:p>8465</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8487" calcext:value-type="float">
+      <text:p>8487</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Fe</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>San Cristóbal</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8488" calcext:value-type="float">
+      <text:p>8488</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8507" calcext:value-type="float">
+      <text:p>8507</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pilar</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Villa María</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8508" calcext:value-type="float">
+      <text:p>8508</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8531" calcext:value-type="float">
+      <text:p>8531</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Emp. Santo Tomé</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Emp. San Carlos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8532" calcext:value-type="float">
+      <text:p>8532</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8533" calcext:value-type="float">
+      <text:p>8533</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gessler</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Coronda</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8534" calcext:value-type="float">
+      <text:p>8534</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8544" calcext:value-type="float">
+      <text:p>8544</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Maciel</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. Gaboto</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8545" calcext:value-type="float">
+      <text:p>8545</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8551" calcext:value-type="float">
+      <text:p>8551</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Kilóm. 135</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. San Martín</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8552" calcext:value-type="float">
+      <text:p>8552</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8553" calcext:value-type="float">
+      <text:p>8553</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Emp. San Carlos</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gálvez</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8554" calcext:value-type="float">
+      <text:p>8554</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8572" calcext:value-type="float">
+      <text:p>8572</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Humboldt</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Soledad</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8573" calcext:value-type="float">
+      <text:p>8573</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8583" calcext:value-type="float">
+      <text:p>8583</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Virginia</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>M.Villa</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8584" calcext:value-type="float">
+      <text:p>8584</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8585" calcext:value-type="float">
+      <text:p>8585</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P. del Molle</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Carrilobo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8586" calcext:value-type="float">
+      <text:p>8586</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8587" calcext:value-type="float">
+      <text:p>8587</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Nelson</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>San Cristóbal</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8588" calcext:value-type="float">
+      <text:p>8588</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8598" calcext:value-type="float">
+      <text:p>8598</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gob. Vera</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Las Toscas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8599" calcext:value-type="float">
+      <text:p>8599</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8620" calcext:value-type="float">
+      <text:p>8620</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Intiyaco</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>V. Guillermina</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8621" calcext:value-type="float">
+      <text:p>8621</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8635" calcext:value-type="float">
+      <text:p>8635</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Charadai</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Santa Sylvina</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8636" calcext:value-type="float">
+      <text:p>8636</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8649" calcext:value-type="float">
+      <text:p>8649</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F17</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Horquilla – Oetling</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Km. 30</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8650" calcext:value-type="float">
+      <text:p>8650</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8660" calcext:value-type="float">
+      <text:p>8660</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Haumonia</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>V. Berthet</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8661" calcext:value-type="float">
+      <text:p>8661</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8671" calcext:value-type="float">
+      <text:p>8671</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F19</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Gob. Obligado</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Laguna Limpia</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8672" calcext:value-type="float">
+      <text:p>8672</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8689" calcext:value-type="float">
+      <text:p>8689</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>F21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Cacuí</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Barranqueras</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8690" calcext:value-type="float">
+      <text:p>8690</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8691" calcext:value-type="float">
+      <text:p>8691</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <office:annotation office:display="true" draw:style-name="gr1" draw:text-style-name="P2" svg:width="28.99mm" svg:height="13.86mm" svg:x="5.22mm" svg:y="384.48mm" draw:caption-point-x="17.25mm" draw:caption-point-y="22.01mm">
+       <dc:creator>ASB</dc:creator>
+       <dc:date>2015-02-12T00:00:00</dc:date>
+       <text:p text:style-name="P1"><text:span text:style-name="T1">Revisar este código pues está duplicado.</text:span></text:p>
+      </office:annotation>
+      <text:p>F</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ingenios de Azúcar</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8692" calcext:value-type="float">
+      <text:p>8692</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8699" calcext:value-type="float">
+      <text:p>8699</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Buenos Aires</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Rosario</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8700" calcext:value-type="float">
+      <text:p>8700</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8759" calcext:value-type="float">
+      <text:p>8759</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G1</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Riachuelo</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8760" calcext:value-type="float">
+      <text:p>8760</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G2</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mataderos</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8761" calcext:value-type="float">
+      <text:p>8761</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>González Catán</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pto. La Plata</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8762" calcext:value-type="float">
+      <text:p>8762</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8766" calcext:value-type="float">
+      <text:p>8766</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Villars</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G. Villegas</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8767" calcext:value-type="float">
+      <text:p>8767</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8800" calcext:value-type="float">
+      <text:p>8800</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Patricios</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Victorino de la Plaza</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8801" calcext:value-type="float">
+      <text:p>8801</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8819" calcext:value-type="float">
+      <text:p>8819</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>G6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pergamino</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Vedia</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8820" calcext:value-type="float">
+      <text:p>8820</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8829" calcext:value-type="float">
+      <text:p>8829</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>M</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Puente Alsina</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Carhue</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8830" calcext:value-type="float">
+      <text:p>8830</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8894" calcext:value-type="float">
+      <text:p>8894</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>La Plata</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Mirapampa</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8895" calcext:value-type="float">
+      <text:p>8895</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8952" calcext:value-type="float">
+      <text:p>8952</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>La Plata</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Avellaneda</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8953" calcext:value-type="float">
+      <text:p>8953</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8981" calcext:value-type="float">
+      <text:p>8981</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>C. Beguerie</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Loma Negra</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8982" calcext:value-type="float">
+      <text:p>8982</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="8996" calcext:value-type="float">
+      <text:p>8996</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Ariel</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>T. C. Miñana</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8997" calcext:value-type="float">
+      <text:p>8997</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>T. C. Miñana</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Sierra Chica</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8998" calcext:value-type="float">
+      <text:p>8998</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+    <table:table-row table:style-name="ro2">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>P5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pedro Gamen</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Pehuajó</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="float" office:value="8999" calcext:value-type="float">
+      <text:p>8999</text:p>
+     </table:table-cell>
+     <table:table-cell/>
+    </table:table-row>
+   </table:table>
+   <table:table table:name="Estaciones FCDFS" table:style-name="ta1">
     <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co22" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co23" table:default-cell-style-name="Default"/>
@@ -15476,7 +17501,6 @@
     </table:table-row>
    </table:table>
    <table:table table:name="Estaciones FCGR" table:style-name="ta2">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co1" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co24" table:default-cell-style-name="Default"/>
