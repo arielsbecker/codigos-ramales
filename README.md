@@ -6,4 +6,4 @@ los datos contenidos en el manual de Códigos de Estaciones publicado por EFEA
 (luego Ferrocarriles Argentinos) en 1964.
 
 Moví el PDF a una nueva ubicación, en Dropbox, para evitar el uso irracional
-de github. Está en https://db.tt/K0FGFyTN
+de github. Está en https://db.tt/C6IMBGe4.
