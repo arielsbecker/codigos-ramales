@@ -1,0 +1,493 @@
+FCDFS
+S (A) : Once - Villa Luro
+S (B) : Villa Luro - Bragado
+S (C) : Bragado - Toay
+S-1 : M.J.Haedo - Emp.J.Mármol
+S-2 : Tablada - Mataderos
+S-3 : Merlo - Empalme Lobos
+S-4 : Luján - Basílica
+S-5 : Suipacha - Gral.O'Brien -Bayauca
+S-6 : Gorostiaga - Anderson
+S-7 : Bragado - Lincoln - Realicó -Chamaico- Bowen
+S-8 : Olascoaga - Timote
+S-9 : Los Toldos - Roberts - Ing.Luiggi
+S-10 : Lincoln - Timote - Gral.Pico - Telén
+S-11 : Pehuajó -Duhau- Tres Lomas
+S-12 : Empalme Chivilcoy - Chivilcoy Norte
+S-13 : Tres Lomas - Maza
+S-14 : Maza - Cereales
+S-15 : La Zanja -Sundblad- González Moreno
+S-16 : Valentín Gómez - Winifreda
+S-17 : Darregueira - Huinca Renancó
+S-18 : Darregueira - Remecó
+S-19 : Guatraché - Alpachiri
+S-20 : Rivera - Doblas
+S-21 : Salliqueló - Rivera
+S-22 : La Zanja - Salliquelo-Carhué
+S-23 : Carhué - Rivera
+S-24 : Metileo - Arizona
+S-25 : Toay - Villa Iris - Emp.Piedra Echada
+S-26 : ¿ Villa Luro - Versailles ?
+S-27 : Villa Luro - Ing.Brian
+S-28 : Estela - Guatraché no construido
+S-29 : Once - Puerto Madero
+S-30 : Colonia Alvear O. - Soitué
+S-31 : Colonia Alvear O. - Carmensa
+S-32 : Macachín - Alpachiri no construido
+S-33 :
+S-34 : Remecó - Cotita no construido
+
+FCGR
+R-1 (A) : Plaza Constitución - Chascomús
+R-1 (B) : Chascomús - Mar del Plata N.
+R-1 (C) : Mar del Plata N. - Peralta Ramos - Puerto M.del Plata
+R-2 : Temperley - Cañuelas - Emp.Km.66
+R-3 : Emp.Km.66 - Empalme Lobos - Tapalque-Olavarría
+R-4 : Emp.Km.66 - Azul - Olavarría
+R-5 : Empalme Lobos - Bolívar - Carhué - Saavedra
+R-6 : Altamirano - Chas - Las Flores
+R-7 : General Guido -emp km 324- Juancho - Vivoratá
+R-8 : Maipú - Tandil
+R-9 : Las Flores - Tandil
+R-10 :
+R-11 : Empalme Lobos - Navarro
+R-12 : Emp.Barrancosa - San Enrique
+R-13 : Emp.Gral.Alvear -Emp Recalde - Pigüé
+R-14 : Olavarría - Gral.La Madrid - Saavedra
+R-15 : Saavedra - Ing.White
+R-16 : Olavarría - Pringles - Emp.Grünbein
+R-17 : Chas - Ayacucho
+R-18 : Ayacucho - San Agustín - Tamangueyú -Quequen-Necochea
+R-19 :
+R-20 : Peralta Ramos - Miramar
+R-21 : Quequén - Puerto Quequén
+R-22 : Cte.N.Otamendi - San Agustín
+R-23 : Tamangueyú - Emp.Lobería - Barrow
+R-24 : Tandil Playa - Emp.Lobería
+R-25 : Tandil -km404- Defferrari
+R-26 : Gardey - Tres Arroyos - Ing.White
+R-27 : Defferrari - Copetonas -Emp Dorrego
+R-28 : Bolívar - Recalde
+R-29 : Recalde - Gral.La Madrid
+R-30 : Gral.La Madrid - Pringles
+R-31 : Barrow - De la Garma-Juan E.Barra
+R-32 : Empalme Querandíes - Vela
+R-33 : Azul - Arroyo de los Huesos - Chillar
+R-34 : Chillar - Juan E.Barra
+R-35 : Juan E.Barra -Indio Rico-Emp Dorrego
+R-36 : Temperley - Emp.Temperley
+R-37 : Temperley - Villa Elisa
+R-38 : Kilo 5 - Sola
+R-39 : Kilo 5 - Ribera Sud - Dock Sud
+R-40 : Ribera sud - Emp.Estévez Norte - Dv.Molinos - Mercado Frutos
+R-41 :
+R-42 :
+R-43 : Emp.O'Gorman - Bca.Peña - Casa Amarilla - Emp.Norte
+R-44 : Pereyra - Ensenada - Muelle R.Santiago / Ensenada (vieja) - Emp.Destilería YPF
+R-45 : Tolosa - Emp.Km.54
+R-46 : Tolosa - La Plata C - R.de Elizalde
+R-47 : Emp.Museo (La Plata P a Circunvalación)
+R-48 : Ringuelet - Cnel.Brandsen
+R-49 : Bosques - Berazategui
+R-50 : Alejandro Korn - San Vicente
+R-51 : Arroyo de los Huesos - Emp.Cerro Chato
+R-52 : Lezama - Don Cipriano
+R-53 : Bajo Hondo - Puerto Belgrano
+R-54 : Emp.Grunbein a Spurr
+R-55 : Emp.Bahía Blanca S - Emp.Tablada
+R-56 : Emp.Spurr - Emp.Ing.White Oeste
+R-57 : Emp.Spurr - Emp.Tablada
+R-58 : Ing.White - Garro
+R-59 : Emp.Aguará - Carmen de Patagones
+R-60 : Emp.Ing.White Oeste - Emp.Aguará - Neuquén - Zapala
+R-61 : Cipolletti - Km.1218
+R-62 : Bordeu - Emp.vía Neuquén (antes Bordeu - Emp.Aguará)
+R-63 :
+R-64 : Emp.Madariaga -Divisadero- Pinamar
+R-65 : Hinojo - Sierras Bayas
+R-66 : Hinojo - Sierra Chica
+R-67 : Emp.Sierras Bayas - Cerro Sotuyo
+R-68 : Emp.Cerro Sotuyo - Cantera Cerro Águila
+R-69 :
+R-70 : Olavarría - Loma Negra
+R-71 : Loma Negra - Cantera San Nicolás
+R-72 : Loma Negra - Cantera La Providencia
+R-73 : Emp.Aguirre - Dv.Cantera Aguirre - Cantera San Luis
+R-74 : Emp.Movediza - Dv.Cantera La Movediza
+R-75 : ¿ Dv.Cantera Los Nogales ?
+R-76 : Dv.Cantera La Movediza - Cantera Cerro Leones
+R-77 : ¿ Tandil - Cantera Albión ?
+R-78 :
+R-79 :
+R-80 :
+R-81 : Emp.Pavón (Avellaneda) - Villa Elisa - La Plata P
+R-82 :
+R-83 :
+R-84 : Monte Veloz - Punta Piedras
+R-85 : La Plata C - Dv.Usina de Gas
+R-86 : R.de Elizalde - Emp.Magdalena – Atalaya
+R-87 : Emp.Magdalena – Magdalena
+R-88 : Emp.Km.92 - Las Pipinas
+R-89 : R.de Elizalde - Vergara
+R-90 : Bahía Blanca N.O. - Darregueira
+R-91 : Nueva Roma - Villa Iris
+R-92 : ¿ Actual S 25 Emp.P.Echada-Toay, -transferido al DFS-?
+R-93 : Bahía Blanca N.O. - Galván - Garro
+R-94 : Emp.Mercado Victoria - ramal a Galván
+R-95 : Carmen de Patagones - San Carlos de Bariloche
+R-96 : Emp.Dr.R.Cortizo - San Antonio Oeste - Puerto SAO
+R-97 : Gral.L.Vintter - Cnel.F.Sosa
+R-98 : San Lorenzo - Ingenio San Lorenzo
+R-99 : Ing.G.Jacobacci - Esquel
+R-100 : Puerto Madryn - Trelew - Alto Las Plumas
+R-101 : Emp.R100 (Pto.Madryn) - Aeródromo Pto.Madryn
+R-102 :
+R-103 : ¿Trelew - Playa Unión?
+R-104 : Las Chapas - Dique Florentino Ameghino
+R-105 : Comodoro Rivadavia - Colonia Sarmiento
+R-106 : Empalme Astra - Astra
+R-107 : Empalme Astra - Comferpet
+R-108 : Puerto Deseado - Las Heras
+R-109 : Ramal a la Base Aeronaval Pto.Deseado
+R-110 : Bahia Blanca RPB / Emp.R26 - Alte.Solier - Timote
+R-111 : Sierra de la Ventana - Club Hotel Sierra
+R-112 : Gral.La Madrid - Guaminí NO CONSTRUIDO
+
+FCGSM
+SM (A) : Retiro - Pilar
+SM (B) : Pilar - Junín
+SM (C) : Junín -Villa Mercedes
+SM (D) : Villa Mercedes- Pescadores-San Luis- Mendoza
+SM (E) : Mendoza - San Juan
+SM-1 : Chacarita - Colegiales
+SM-2 : Caseros - Int.Caseros
+SM-3 : Caseros - Haedo
+SM-4 : Rawson - Arribeños
+SM-5 : Junín - Rojas-Km 7
+SM-6 : Chacabuco - Mayor J.Orellano
+SM-7 : Saforcada - Santa Isabel
+SM-8 : Alberdi - Mayor J.Orellano - H.Bouchard
+SM-9 : Rufino - Emp.Venado Tuerto
+SM-10 : Rufino - H.Renancó - Monte Comán
+SM-11 : Rufino - La Carlota
+SM-12 : Laboulaye - Sampacho
+SM-13 : Laboulaye - Villa Valeria
+SM-14 : Cañada Verde - Justo Daract
+SM-15 : Vicuña Mackenna - Sampacho
+SM-16 : Sampacho - Achiras
+SM-17 : Km.136 - Sampacho - Villa Mercedes
+SM-18 : Avanzada - Beazley - La Paz
+SM-19 : Villa Mercedes - Villa Dolores
+SM-20 : Conlara - Los Cerrillos
+SM-21 : J.N.Lencinas - Guadales - Cuadro Nacional-San Rafael
+SM-22 : Guadales - Monte Comán - Colonia Alvear N.
+SM-23 : Monte Comán - Va Atuel-Jaime Prats
+SM-24 : Monte Comán - Pedro Vargas - San Rafael
+SM-25 : Pedro Vargas - Malargüe - Bardas Blancas
+SM-26 : Palmira - Rivadavia - Alto Verde
+SM-27 : Palmira - Tres Porteñas
+SM-28 : Fray L.Beltrán - Espejo - Emp.Tropero Sosa
+SM-29 : Emp.Trasandino - Luján de Cuyo - Gral.Gutiérrez
+SM-30 : Luján de Cuyo-Eugenio Bustos
+SM-31 : Perdriel - Dest.Luján de Cuyo
+SM-32 : Monte Comán - Rodolfo Iselín
+SM-33 : La Hullera - Salagasta
+SM-34 : Cañada Honda - Albardón
+SM-35 : San Juan - Santa Lucía - Desamparados
+SM-36 : San Juan - Desamparados - Marquesado
+SM-37 : Espejo - Ing.G.André
+SM-38 : Viilla Krause - Divisoria
+SM-39 : Km.17 (SM38 Va.Krause-Divisoria) - Emp.SM34 (Caucete)
+SM-40 : Colonia Alvear N. - Colonia Alvear O.
+SM-41 : Colonia Alvear O. - Bowen (ant. S7)
+SM-42 :
+SM-43 : Fray L.Beltrán - Paraíso
+SM-44 : General Ortega - Pedregal
+SM-45 : Saenz Peña - Villa Luro
+SM-46 : Chacarita - Caballito
+SM-47 :
+SM-48 : Cramer - Base Aérea Va.Reynolds
+
+FCGBM
+GM-1 : Retiro - Campana
+GM-1 (A) : Campana - Zárate
+GM-1 (B) : Zárate - Rosario Norte
+GM-1 (C) : Emp.GM1E (Patio Parada) - Bo.Arroyito - Sunchales
+GM-1 (C)/20 : Variante Emp.GM2 (Cabín 8) - Emp.GM1C (Sarratea)
+GM-1 (D) : Sunchales - Tucumán
+GM-1 (E) : Cabín 8 (Ludueña) - Cabín 18 - Embarcaderos - Rosario N - Rosario C
+GM-1 (F) : Emp.Rosario Central - Túnel al Puerto de Rosario
+GM-1 (G) : Emp.Ludueña - Emp.GM1C (Sorrento)
+GM-2 : Cabín 8 (Ludueña) - Villa María - Córdoba
+GM-2 (A) : Túnel al Puerto de Rosario
+GM-3 : Retiro - Tigre
+GM 3 (A) : Carupá - Muelle San Fernando
+GM-4 : Villa María - Río Cuarto - Km.136
+GM-5 : Emp. GM1B (San Nicolás) - Pergamino
+GM-6 : Pergamino - Km.7 (Emp.SM5)
+GM-7 : Luján - Vagues
+GM-8 : Vagues - Emp.GM5 (Pergamino)
+GM-9 : Túnel al Pto.Rosario - Rosario E - Casilda - D.V.Sarsfield - Río Tercero - Córdoba
+GM-10 : Casilda - Melincué
+GM-11 : Playa Km.0 (Córdoba) - Dr.A.M.Bass - Malagueño
+GM-12 : Emp. GM1B (San Nicolás) - Puerto de San Nicolás
+GM-13 : Va.Constitución - Venado Tuerto - Río Cuarto
+GM-14 : Cañada de Gómez - Garibaldi
+GM-15 : Pergamino - Casilda - Cañada de Gómez
+GM-16 : Emp.Coghlan - Bartolomé Mitre - Delta
+GM-17 : Ferreyra - Dr.A.M.Bass
+GM-18 : Victoria - Vagues
+GM-19 : Cabín 8 (Ludueña) - Santa Teresa - Peyrano
+GM-19 (A) : Cabín 8 (Ludueña) - Barrio Vila -variante-
+GM-20 : La Banda - Santiago del Estero
+GM-21 : B.de Irigoyen - Santa Fe
+GM-22 : Gálvez - San Francisco - La Rubia
+GM-23 : San Lorenzo - Puerto de San Lorenzo
+GM-24 : Río Segundo - Alta Gracia - Cantera Alta Gracia
+GM-25 : Cabín 19 (Emp.GM1C) - Embarcaderos
+GM-26 : Cevil Pozo -Mendez- Burruyacú - Km.37 (Requelme)
+GM-27 : Pilar - Villa del Rosario
+GM-28 : Emp.Agua Dulce (GM1D) - Agua Dulce - Las Colonias
+GM-29 (A) : Emp.GM1D (Cevil Pozo) - Ingenio Concepción
+GM-29 (B) : Cevil Pozo - Ingenio San Juan
+GM-29 (C) : Cevil Pozo - Ingenio Lastenia
+GM-29 (D) : Emp.GM1D (Cruz del Norte) - Azucarera Concepción
+GM-29 (E) : San Miguel - Ingenio San Miguel
+GM-29 (F) : Ranchillos - Ingenio San Antonio - Ingenio San Vicente
+GM-30 : Ramal a Puerto Borghi
+GM-31 : Emp.GM5 (Pergamino) - Wheelwright - Melincué
+GM-32 : Venado Tuerto - Empalme SM5
+GM-33 : Firmat - Chucul
+GM-34 : Km.28 (GM11) - Yocsina
+GM-35 : Barrio Flores - Dumesnil
+GM-36 : Santa Fe - Santa Fe FCGB
+GM-37 : Iturraspe - Las Varillas - Villa del Rosario
+GM-38 : Las Trojas - San Ricardo
+GM-39 : Río Cuarto -Berrotaran- Río Tercero
+GM-40 : Olmos - J.de la Quintana
+GM-41 : Las Rosas - Villa María
+GM-42 : M.Saavedra - Garibaldi
+GM-43 : M.Saavedra - Emp.GM21 (Matilde)
+GM-44 : Carmen - Guatimozín
+GM-45 : James Craik - Villa del Rosario
+GM-46 : Peyrano - Wheelwright - Rastreador Fournier
+GM-47 :
+GM-48 : Desvío Ingenio Cruz Alta
+GM-49 :
+GM-50 :
+GM-51 : Pinto al oeste (D.C.Los Montes)
+GM-52 : Landeta - San Francisco
+GM-53 :
+GM-54 :
+GM-55 :
+GM-56 : Ing.Maschwitz - Dique Luján
+GM-57 : Desvio Cantera Serrano - Cantera Serrano
+GM-58 :
+GM-59 :
+GM-60 :
+GM-61 :
+GM-62 :
+GM-63 : San Jorge - Landeta
+GM-64 : Córdoba - Comechingones
+GM-65 : Villa del Rosario - Sumampa - Forres
+GM-66 :
+GM-67 :
+GM-68 : Rosario RPB / Puerto de Rosario -Los Callejones- Timote
+GM-69 :
+GM-70 :
+GM-71 :
+GM-72 : Villa María - La Carlota
+GM-73 : Ing.Christiersson - Km.101
+GM-74 : Dr.V.Sarsfield (GM11) - Ika-Renault
+GM-75 : Emp. Firmat (villada - Cda. del Ucle)
+GM-76 : Emp.Cabín 9 - Cabín 13 (GM9-GM19)
+GM-77 : Emp.Cabín 9 - ramal GM19 (lado Pérez)
+
+FCGU
+U (A) : Federico Lacroze - Zárate Bajo
+U (B) : Lib.Gral.San Martín - Concordia C
+U (C) : La Criolla (antes Concordia C) - Monte Caseros - Posadas
+U (D) :
+U (E) : Lib.Gral.San Martín - Holt - Ibicuy
+U (F) : Dv.Km.88 - Zárate Nuevo - Lib.Gral.San Martín
+U-1 : Fátima -Giles- Rojas - 4 de Febrero
+U-2 : E.Carbó - Gualeguay - Puerto Ruiz
+U-3 : Emp.Las Colas - Tala
+U-4 : F.M.Parera - Gualeguaychú - Puerto Gualeguaychú
+U-5 : Bajada Grande - Crespo C - Basavilbaso - C.del Uruguay
+U-6 : Caseros - San Salvador
+U-7 : C.del Uruguay - Concordia C
+U-8 : Villaguay E - Villaguay C
+U-9 : Solá - Raíces - Km.243
+U-10 : Nogoyá - Victoria
+U-11 : Puerto Diamante - Crespo E - Crespo C
+U-12 : Crespo E - Emp.Km.59 - Hasenkamp
+U-13 : San Jaime - La Paz
+U-14 : Federal - Concordia N
+U-15 : Paraná - El Pingo
+U-16 : Hasenkamp - Federal - Curuzú Cuatiá
+U-17 : M.F.Mantilla - Goya - Puerto de Goya
+U-18 : Corrientes - Mburucuyá
+U-19 : Lomas de Vallejos - Gral.Paz
+U-20 : Ramal al Puerto de Alvear
+U-21 : Ramal al Puerto de Santo Tomé
+U-22 : Rubén Darío - Gral.Lemos
+U-23 :
+U-24 : Chel.F.Lynch - San Martin - San Martín FCGBM
+U-25 : Concordia N - Concordia C
+U-26 : Ramal a Puerto Ceibo
+U-27 : Salto - Int.Salto FCGB
+U-28 : Ramal al Puerto de Concepción del Uruguay
+U-29 :
+U-30 : Ramal al Puerto de Paso de los Libres
+U-31 :
+U-32 : Ramal al Puerto 25 de Mayo (ex Puerto San Martín)
+U-33 : Ramal al Puerto de La Cruz
+U-34 : Emp.Km.161 - Curuzú Cuatiá O - Corrientes
+U-35 : Ramal al Puerto de Concordia
+U-36 :
+U-37 : Ramal al Puerto de La Paz
+
+FCGB
+F : Santa Fe SF -Los Amores- Cacuí
+F-1 : Emp.F24 (Santa Fe) - Rosario SF
+F-2 : Emp.F (Santa Fe) -cruce F2- San Cristóbal
+F-3 : Pilar - Villa María salvo est San Francisco
+F-4 : Empalme Santo Tomé - Empalme San Carlos
+F-5 : Gessler - Coronda
+F-6 : Maciel - Puerto Gaboto
+F-7 : Kilómetro 135 - Puerto San Martín
+F-8 : Emp.F1 (Ex Sorrento) - Embarcaderos
+F-9 : Empalme San Carlos - Gálvez
+F-10 : Humboldt - Soledad
+F-11 : Virginia - Moisés Ville
+F-12 : Pozo Del Molle - Carrilobo
+F-13 : Nelson - San Cristóbal
+F-14 : Gobernador Vera - Las Toscas
+F-15 : Intiyaco - Villa Guillermina
+F-16 : Charadai - Santa Sylvina
+F-17 : Horquilla - Oetling - Kilómetro 30
+F-18 : Haumonia - Villa Berthet
+F-19 : General Obligado - Laguna Limpia
+F-20 : Kilómetro 519 - Colonia Baranda
+F-21 : Cacuí - Resistencia F - Barranqueras
+F-22 : ¿Villa Ocampo - Ingenio Arno?
+F-23 : Cabín 6 - Cabín 9 (Santa Fe)
+F-24 : Emp.F1 - Colastiné - San José del Rincón
+RM : Rosario RM - Fuentes
+C (I) : Santa Fe - San Cristóbal
+C (II) : San Cristóbal - Tucumán N.
+C (III) : Tucumán N. - La Quiaca
+C-1 : Naré - San Javier
+C-2 : Bandera - Los Juríes - Añatuya
+C-3 : Añatuya - Quimilí -Pinedo- Avia Terai - Resistencia - Barramqueras
+C-4 : Puna - Santa Justina - extensión al NO
+C-5 : Quimilí - Tintina - Campo Gallo
+C-6 : Tostado - Ap.Gral.Pinedo
+C-7 : Clodomira - Santiago del Estero
+C-8 : Las Cejas - Rapelli - Rosario de la Frontera
+C-9 : Colombres - Guzmán .- Toco Palta
+C-10 : Pacará - La Encantada-Las Termas de Río Hondo
+C-11 : Pacará - Ingenio Concepción
+C-12 : Metán - Avia Terai
+C-13 : Güemes - Cerrillos - Alemanía
+C-14 : Cerrillos - Socompa
+C-15 : Perico - Pocitos
+C-16 : Pichanal - Orán
+C-17 : El Cadillal - Dique El Cadillal
+C-18 : Joaquín V.González - Pichanal
+C-19 : Rapelli - Pozo Betbeder
+C-20 : Miel de Palo - Los Linares
+C-21 : Emp.Centenario - Tucumán C.
+C-22 : H.Mejía Miraval - Villa Brana - Las Tinajas
+C-23 : Tintina - Lilo Viejo - Patay
+C-24 : Roversi - Campo del Cielo
+C-25 : Embarcación - Formosa
+C-26 : Pres.Roque Sáenz Peña - Colonia J.J.Castelli
+C-27 : Pampa de los Guanacos - Sachayoj
+C-28 : Nougués - San Pablo
+C-29 : Pala Pala - Ingenio Bella Vista
+C-30 : Los Juríes - Km.477
+C-31 : Santa Fe - Puerto de Santa Fe
+C-32 : Emp.C3 (Barranqueras) - Puerto Vilelas
+C-33 : Mate de Luna - Tucumán P.
+C-34 : Nougués - Ingenio San Felipe
+C-35 : Lapachito - Zapallar
+C-36 : San Nicolás - Km.20 (ex F.C.San Nicolás a Arroyo Dulce)
+C-37 : Emp.Centenario - Cuarteles
+C-38 : San Andrés - Ingenio San Andrés
+C-39 : Km.789 (Emp.C-II) - Ingenio Amalia
+C-40 : Emp.C-II (Nougués) - Cía.Azucarera Tucumana
+C-41 : Bustamante - Ingenio San Miguel
+CC : Retiro - Rosario O - Alta Córdoba - Tucumán C.
+CC-1 : Emp.Saldías - Retiro Norte - Puerto Madero
+CC-2 : Triángulo - Rosario CC - Puerto de Rosario
+CC-3 : Emp.Graneros - Embarcaderos
+CC-4 : San Francisco - Rafaela SF
+CC-5 : Josefina (Emp.CC4) - Cnel.Fraga - Rafaela O - Emp.CC4 (Rafaela) / (ant.Rafaela E)
+CC-6 : Cnel.Fraga - Pueblo Marini
+CC-7 : Emp.Garita - Córdoba CA
+CC-8 : Guiñazú - Unquillo
+CC-9 : Caroya - Canteras del Sauce (Km.25)
+CC-10 : Recreo - Chumbicha
+CC-11 : Frías - Santiago del Estero CC
+CC-12 : Emp.CC (Tucumán) - Lamadrid - Villa Alberdi
+CC-13 : Río Colorado - Famaillá
+CC-14 : Villa Alberdi - La Cocha
+CC-15 : Aguilares - Los Sarmientos - ext.al oeste
+CC-16 : Concepción - Medinas
+CC-17 : Arcadia - Gastona
+CC-18 : 24 de Septiembre - Yerba Buena - Km.15 (Muñecas)
+CC-19 : Don Torcuato - Km.37
+CC-20 : Emp.CC (Tucunán) - Tucumán P.
+CC-21 : Dv.Km.18 - Canteras de Ancaján (Km.15)
+CC-22 : Río Chico - Canteras de la Nueva Trinidad
+CC-23 : Villa Allende - Canteras San Fernando
+CC-24 : Emp.Frontera - San Francisco CC - Emp.enlace San Francisco SF a CC
+CC-25 :
+CC-26 :
+CC-27 : Recreo - Km.15 - Cerro Rico
+G : Buenos Aires - Catan-Pergamino - Rosario CGBA
+G-1 : Buenos Aires - Riachuelo
+G-2 : Villa Madero - Mataderos
+G-3 : González Catán - La Plata CGBA - Puerto La Plata
+G-4 : Villars - Patricios -9 de Julio- Gral.Villegas
+G-5 : Patricios - Victorino de la Plaza
+G-6 : Pergamino - Vedia
+G-7 : Puerto Rosario - Emp.G (La Bajada) - Emp.F1 (Rosario SF)
+G-8 :
+G-9 :
+G-10 : Emp.G7 (Puerto Rosario) -
+P : Emp.G3 (Puerto La Plata) La Plata ¨P -Etcheverry- C.Beguerie - Mira Pampa
+P-1 : -Emp Gambier-Monteverde- Avellaneda
+P-2 : Carlos Beguerie - Olavarría - Dv.Loma Negra
+P-3 : Ariel - Azul -Tte.Cnel.Miñana
+P-4 : Tte.Cnel.Miñana - Sierra Chica
+P-5 : Pedro Gamen - Pehuajó
+M : Puente Alsina -Marinos-Plomer- Plomer - Carhué
+M-1 : Puente Alsina - Intercambio Midland
+A : Laguna Paiva -Cruce F2- La Para-Dean Funes CNA - Serrezuela - Patquía - Chumbicha - Catamarca
+A-1 : (antes Córdoba CNA) / Emp.Garita - Cosquín - Cruz del Eje
+A-2 : Serrezuela - Pie de Palo - San Juan
+A-3 : Patquía - Chilecito
+A-4 : Cebollar - Mazán - Andalgalá
+A-5 : Mazán - Tinogasta
+A-6 : Catamarca - La Cocha
+A-7 : Coll - Jáchal
+A-8 : La Puerta - Córdoba CNA
+A-9 : Milagro - Quines
+A-10 : Pie de Palo - Mendoza Estado
+A-11 : Santa Rosa del Río Primero - Tránsito
+A-12 : Emp.Buena Nueva (A10) - Paso de los Andes - Las Cuevas
+A-13 : Cte.Leal - Pinas
+A-14 : Thea - Canteras
+A-15 : José Martí - Cuyo - Las Casuarinas
+A-16 : Mendoza P - Mendoza T - Paso de los Andes
+A-17 : Caucete - Villa Independencia
+A-18 :
+A-19 : Emp.A2 (Angaco Sud) - Dv.Bodega Tinto Hnos.
+A-20 : Emp.A2 (Angaco Sud) - Dv.Bodega Meglioli - San Isidro
+A-21 : Emp.A2 (Pedro Echagüe) - Dv.Bodega Gutiérrez
+A-22 : Emp.A2 (Las Chimbas) - Dv.Bodega Graffigna
+A-23 : Emp.A7 (Angaco Norte) - Dv Bodega Muro y Bustello
+A-24 : Cablecarril Chilecito - La Mejicana
